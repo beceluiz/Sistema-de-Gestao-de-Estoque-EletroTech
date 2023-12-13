@@ -1,4 +1,4 @@
-![logo](Sistema-de-Gestao-de-Estoque-EletroTech/img/logo.jpg)
+![logo](/img/logo1.jpg)
 
 
 # Sistema de Gestão de Estoque EletroTech
